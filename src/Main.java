@@ -11,7 +11,7 @@
             task8();
         }
         public static void task1() {
-            System.out.println("Задача 1");
+            System.out.println("Задача 1 ");
             var dog = 8.0;
             var cat = 3.6;
             var paper = 763789;
@@ -21,7 +21,7 @@
         }
 
         public static void task2() {
-            System.out.println("Задача 2");
+            System.out.println("Задача 2 ");
             var dog = 8.0;
             var cat = 3.6;
             var paper = 763789;
@@ -34,7 +34,7 @@
         }
 
         public static void task3() {
-            System.out.println("Задача 3");
+            System.out.println("Задача 3 ");
             var dog = 8.0;
             var cat = 3.6;
             var paper = 763789;
@@ -47,7 +47,7 @@
         }
 
         public static void task4() {
-            System.out.println("Задача 4");
+            System.out.println("Задача 4 ");
             var friend = 19;
             friend = friend + 2;
             System.out.println(friend);
@@ -56,7 +56,7 @@
         }
 
         public static void task5() {
-            System.out.println("Задача 5");
+            System.out.println("Задача 5 ");
             var frog = 3.5;
             frog = 3.5 * 10;
             System.out.println(frog);
@@ -65,7 +65,7 @@
         }
 
         public static void task6() {
-            System.out.println("Задача 6");
+            System.out.println("Задача 6 ");
             var vesMishi = 78.2;
             var vesVasi = 82.7;
             var vesBox = vesVasi + vesMishi;
@@ -73,7 +73,7 @@
         }
 
         public static void task7() {
-            System.out.println("Задача 7");
+            System.out.println("Задача 7 ");
             var vesMishi = 78.2;
             var vesVasi = 82.7;
             var vesRaznici = vesVasi - vesMishi;
@@ -82,7 +82,7 @@
         }
 
         public static void task8() {
-            System.out.println("Задача 8");
+            System.out.println("Задача 8 ");
             var chasi = 640;
             var chelovek = 9;
             var nagruzka = chasi / chelovek;
